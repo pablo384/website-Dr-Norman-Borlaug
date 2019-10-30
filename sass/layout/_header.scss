@@ -1,0 +1,12 @@
+.header-section {
+  background-color: $primary-color;
+  color: $primary-text-color;
+}
+.header__title,
+.header__caption {
+  text-align: center;
+  font-size: 1em;
+}
+.header__title {
+  font-size: 1.7em;
+}
